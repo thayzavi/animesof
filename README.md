@@ -1,6 +1,3 @@
-Claro! Aqui está a versão adaptada do README com as informações que você pediu:
-
----
 
 # Portal Anime Web - README 🎥🌐
 
