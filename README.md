@@ -34,7 +34,8 @@ Portal Anime Web é um projeto desenvolvido como parte de um trabalho acadêmico
 Este projeto é desenvolvido por Thayza Silva como parte de um trabalho de faculdade. Não há contribuições abertas para este projeto, pois é uma demonstração simples.
 
 ---
-![Uploading Design sem nome.png…]()
+![Design sem nome](https://github.com/user-attachments/assets/db67fce7-4332-4cf3-ba20-6cfead36a3ca)
+
 
 
 ---
